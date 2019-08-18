@@ -1,5 +1,5 @@
 {
-	"result" : 
+	"result" : [
 	{
 		"id" : 1,
 		"no" : 1,
@@ -9,4 +9,5 @@
 		"International" : "Spain",
 		"Team" : "Manchester United",
 	}
+		]
 }
