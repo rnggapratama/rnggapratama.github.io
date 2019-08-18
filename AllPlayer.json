@@ -1,13 +1,13 @@
 {
-	"result" : [
-	{
-		"id" : 1,
-		"no" : 1,
-		"name" : "David De Gea",
-		"birth_date" : "1990-11-07",
-		"Position" : "Goalkeeper",
-		"International" : "Spain",
-		"Team" : "Manchester United",
-	}
-		]
+  "result" : [
+    {
+	"id" : 1,
+	"no" : 1,
+	"name" : "David De Gea",
+	"birth_date" : "1990-11-07",
+	"Position" : "Goalkeeper",
+	"International" : "Spain",
+	"Team" : "Manchester United",
+    }
+  ]
 }
